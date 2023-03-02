@@ -1,0 +1,37 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "studentId": "SV001",
+      "studentName": "Nguyen Van A",
+      "age": "20"
+    },
+    {
+      "id": 2,
+      "studentId": "SV002",
+      "studentName": "Nguyen Van B",
+      "age": "10"
+    },
+    {
+      "id": 3,
+      "studentId": "SV003",
+      "studentName": "Nguyen Van C",
+      "age": "20"
+    },
+    {
+      "studentId": "SV005",
+      "studentName": "dungdung",
+      "age": "12",
+      "id": 4
+    },
+    {
+      "studentId": "SV009",
+      "studentName": "dung dang",
+      "age": "44",
+      "id": 5
+    }
+  ],
+  "users": [
+    {}
+  ]
+}
